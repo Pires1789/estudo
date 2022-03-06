@@ -1,5 +1,8 @@
 # estudo
 
-O objetivo deste repositório é armazenar scrips de estudo em Python, permitindo consultas a estas informações de forma fácil.
+## Overview
 
-Basicamente os scrips são relativos a aulas dos cursos Alura.
+This is my repository for understand more about Python.
+My main goal is to create a easy way of consulting somes function of library for Data Science (like Pandas, NumPy...).
+
+Some of the scrips come from [Alura](https://www.alura.com.br/) and [DSA Academy](www.datascienceacademy.com.br).
